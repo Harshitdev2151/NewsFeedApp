@@ -1,3 +1,3 @@
 Use the https://newsapi.org
-Followed teh MVVMC approach
-Unit test
+Followed the MVVMC approach
+Unit test covered
